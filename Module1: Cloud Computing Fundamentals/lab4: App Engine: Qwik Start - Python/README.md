@@ -1,4 +1,4 @@
-# App Engine: Qwik Start - Python (GSP067)
+# App Engine: Qwik Start - Python 
 
 ## Objective
 
