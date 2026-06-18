@@ -29,7 +29,7 @@ The labs are organized according to the official course structure:
 
 Each folder contains lab work organized by module. Every lab includes:
 
-* Objective (in my own words)
+* Objective 
 * Key steps performed
 * Tools and services used
 * Results and outputs
